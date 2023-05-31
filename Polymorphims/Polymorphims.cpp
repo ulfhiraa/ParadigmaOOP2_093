@@ -28,7 +28,7 @@ public:
 		cout << "Pesan dari Lia" << endl;
 	}
 };
-
+ 
 int main() {
 	seseorang* orang;
 	joko a;
