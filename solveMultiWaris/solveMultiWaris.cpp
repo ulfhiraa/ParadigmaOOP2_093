@@ -10,4 +10,4 @@ public:
 	{
 		cout << "orang dibuat dengan umur " << umur << "\n" << endl;
 	}
-};
+}; 
