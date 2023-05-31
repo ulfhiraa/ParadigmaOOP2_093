@@ -51,5 +51,5 @@ int main() {
 	pelajar siswa("andi laksono", "Laki-laki", "SMAN 1 Bantul");
 	cout << siswa.perkenalan();
 
-	return 0;
+	return 0; 
 } 
