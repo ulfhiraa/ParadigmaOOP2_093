@@ -35,7 +35,7 @@ int main() {
 	lia b;
 
 	orang = &a;
-	orang->pesan();
+	orang->pesan(); 
 	orang = &b;
 	orang->pesan();
 	//a.seseorang::pesan(); //memanggil method yang berada di class orang tua
